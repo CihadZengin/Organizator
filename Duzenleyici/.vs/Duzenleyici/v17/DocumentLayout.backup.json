@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Duzenleyici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|d:\\duzenleyici\\duzenleyici\\stok_durumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|solutionrelative:duzenleyici\\stok_durumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|d:\\duzenleyici\\duzenleyici\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|solutionrelative:duzenleyici\\musteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|d:\\duzenleyici\\duzenleyici\\kurumlar_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|solutionrelative:duzenleyici\\kurumlar_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|d:\\duzenleyici\\duzenleyici\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|solutionrelative:duzenleyici\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|d:\\duzenleyici\\duzenleyici\\kay\u0131t_ol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|solutionrelative:duzenleyici\\kay\u0131t_ol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|d:\\duzenleyici\\duzenleyici\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|solutionrelative:duzenleyici\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|d:\\duzenleyici\\duzenleyici\\kay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|solutionrelative:duzenleyici\\kay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|d:\\duzenleyici\\duzenleyici\\ar\u0131za_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}|Duzenleyici\\Duzenleyici.csproj|solutionrelative:duzenleyici\\ar\u0131za_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stok_Durumu.cs [Design]",
+              "DocumentMoniker": "D:\\Duzenleyici\\Duzenleyici\\Stok_Durumu.cs",
+              "RelativeDocumentMoniker": "Duzenleyici\\Stok_Durumu.cs",
+              "ToolTip": "D:\\Duzenleyici\\Duzenleyici\\Stok_Durumu.cs [Design]*",
+              "RelativeToolTip": "Duzenleyici\\Stok_Durumu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:51:30.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musteriler.cs [Design]",
+              "DocumentMoniker": "D:\\Duzenleyici\\Duzenleyici\\Musteriler.cs",
+              "RelativeDocumentMoniker": "Duzenleyici\\Musteriler.cs",
+              "ToolTip": "D:\\Duzenleyici\\Duzenleyici\\Musteriler.cs [Design]*",
+              "RelativeToolTip": "Duzenleyici\\Musteriler.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:51:19.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kurumlar_list.cs [Design]",
+              "DocumentMoniker": "D:\\Duzenleyici\\Duzenleyici\\Kurumlar_list.cs",
+              "RelativeDocumentMoniker": "Duzenleyici\\Kurumlar_list.cs",
+              "ToolTip": "D:\\Duzenleyici\\Duzenleyici\\Kurumlar_list.cs [Design]*",
+              "RelativeToolTip": "Duzenleyici\\Kurumlar_list.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:51:11.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullanicilar.cs [Design]",
+              "DocumentMoniker": "D:\\Duzenleyici\\Duzenleyici\\Kullanicilar.cs",
+              "RelativeDocumentMoniker": "Duzenleyici\\Kullanicilar.cs",
+              "ToolTip": "D:\\Duzenleyici\\Duzenleyici\\Kullanicilar.cs [Design]*",
+              "RelativeToolTip": "Duzenleyici\\Kullanicilar.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:51:00.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kay\u0131t_Ol.cs [Design]",
+              "DocumentMoniker": "D:\\Duzenleyici\\Duzenleyici\\Kay\u0131t_Ol.cs",
+              "RelativeDocumentMoniker": "Duzenleyici\\Kay\u0131t_Ol.cs",
+              "ToolTip": "D:\\Duzenleyici\\Duzenleyici\\Kay\u0131t_Ol.cs [Design]",
+              "RelativeToolTip": "Duzenleyici\\Kay\u0131t_Ol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:50:58.738Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Duzenleyici\\Duzenleyici\\Form1.cs",
+              "RelativeDocumentMoniker": "Duzenleyici\\Form1.cs",
+              "ToolTip": "D:\\Duzenleyici\\Duzenleyici\\Form1.cs [Design]",
+              "RelativeToolTip": "Duzenleyici\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:50:57.891Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kay\u0131t.cs [Design]",
+              "DocumentMoniker": "D:\\Duzenleyici\\Duzenleyici\\Kay\u0131t.cs",
+              "RelativeDocumentMoniker": "Duzenleyici\\Kay\u0131t.cs",
+              "ToolTip": "D:\\Duzenleyici\\Duzenleyici\\Kay\u0131t.cs [Design]",
+              "RelativeToolTip": "Duzenleyici\\Kay\u0131t.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:50:55.084Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ar\u0131za_list.cs [Design]",
+              "DocumentMoniker": "D:\\Duzenleyici\\Duzenleyici\\Ar\u0131za_list.cs",
+              "RelativeDocumentMoniker": "Duzenleyici\\Ar\u0131za_list.cs",
+              "ToolTip": "D:\\Duzenleyici\\Duzenleyici\\Ar\u0131za_list.cs [Design]*",
+              "RelativeToolTip": "Duzenleyici\\Ar\u0131za_list.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:50:42.964Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

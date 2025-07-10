@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C89FA75F-88DF-48D6-B342-1F2A109E7AC8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Duzenleyici</RootNamespace>
+    <AssemblyName>Duzenleyici</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>vecteezy_folder-3d-folder-icon-3d-folder-symbol-3d-folder-image_47248632.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaSayfa.Designer.cs">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arıza_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arıza_list.Designer.cs">
+      <DependentUpon>Arıza_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kayıt.Designer.cs">
+      <DependentUpon>Kayıt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kayıt_Ol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kayıt_Ol.Designer.cs">
+      <DependentUpon>Kayıt_Ol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanicilar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanicilar.Designer.cs">
+      <DependentUpon>Kullanicilar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kurumlar_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kurumlar_list.Designer.cs">
+      <DependentUpon>Kurumlar_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteriler.Designer.cs">
+      <DependentUpon>Musteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stok_Durumu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stok_Durumu.Designer.cs">
+      <DependentUpon>Stok_Durumu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaSayfa.resx">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arıza_list.resx">
+      <DependentUpon>Arıza_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kayıt.resx">
+      <DependentUpon>Kayıt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kayıt_Ol.resx">
+      <DependentUpon>Kayıt_Ol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanicilar.resx">
+      <DependentUpon>Kullanicilar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kurumlar_list.resx">
+      <DependentUpon>Kurumlar_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteriler.resx">
+      <DependentUpon>Musteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Stok_Durumu.resx">
+      <DependentUpon>Stok_Durumu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="ico\icons8-add-50.png" />
+    <Content Include="ico\icons8-broken-link-40.png" />
+    <Content Include="ico\icons8-customer-50.png" />
+    <Content Include="ico\icons8-date-50.png" />
+    <Content Include="ico\icons8-delete-document-50.png" />
+    <Content Include="ico\icons8-exit-sign-50 - Kopya.png" />
+    <Content Include="ico\icons8-filing-cabinet-100 %281%29.ico" />
+    <Content Include="ico\icons8-filing-cabinet-100.png" />
+    <Content Include="ico\icons8-login-50 %281%29.png" />
+    <Content Include="ico\icons8-magnifier-50.png" />
+    <Content Include="ico\icons8-magnifying-glass-50.png" />
+    <Content Include="ico\icons8-menu-50.png" />
+    <Content Include="ico\icons8-remove-48.png" />
+    <Content Include="ico\icons8-search-in-list-50.png" />
+    <Content Include="ico\icons8-stock-50.png" />
+    <Content Include="ico\icons8-tool-50.png" />
+    <Content Include="ico\icons8-update-50.png" />
+    <Content Include="ico\icons8-users-50.png" />
+    <Content Include="ico\vecteezy_folder-3d-folder-icon-3d-folder-symbol-3d-folder-image_47248632.ico" />
+    <Content Include="vecteezy_folder-3d-folder-icon-3d-folder-symbol-3d-folder-image_47248632.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
