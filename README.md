@@ -28,7 +28,7 @@ Detaylar için: [LICENSE.md](LICENSE)
 ## 📞 İletişim
 
 Her türlü lisanslama, demo talebi veya öneri için:  
-📧 organizator@proje.com  
+📧 mcihadz@gmail.com  
 📞 +90 543 642 99 38
 
 ## 💬 Geliştirici
